@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/SelimPl/Starwars_react.git/static/css/main.9952ef1b.chunk.css",
-    "main.js": "/SelimPl/Starwars_react.git/static/js/main.34736857.chunk.js",
-    "main.js.map": "/SelimPl/Starwars_react.git/static/js/main.34736857.chunk.js.map",
-    "runtime-main.js": "/SelimPl/Starwars_react.git/static/js/runtime-main.df680e5a.js",
-    "runtime-main.js.map": "/SelimPl/Starwars_react.git/static/js/runtime-main.df680e5a.js.map",
-    "static/js/2.5cf98740.chunk.js": "/SelimPl/Starwars_react.git/static/js/2.5cf98740.chunk.js",
-    "static/js/2.5cf98740.chunk.js.map": "/SelimPl/Starwars_react.git/static/js/2.5cf98740.chunk.js.map",
-    "static/js/3.af3eeab0.chunk.js": "/SelimPl/Starwars_react.git/static/js/3.af3eeab0.chunk.js",
-    "static/js/3.af3eeab0.chunk.js.map": "/SelimPl/Starwars_react.git/static/js/3.af3eeab0.chunk.js.map",
-    "index.html": "/SelimPl/Starwars_react.git/index.html",
-    "static/css/main.9952ef1b.chunk.css.map": "/SelimPl/Starwars_react.git/static/css/main.9952ef1b.chunk.css.map",
-    "static/js/2.5cf98740.chunk.js.LICENSE.txt": "/SelimPl/Starwars_react.git/static/js/2.5cf98740.chunk.js.LICENSE.txt",
-    "static/media/StarWars.css": "/SelimPl/Starwars_react.git/static/media/star.2bcf27b7.jpg"
+    "main.css": "/starwars_react/static/css/main.f487839c.chunk.css",
+    "main.js": "/starwars_react/static/js/main.34736857.chunk.js",
+    "main.js.map": "/starwars_react/static/js/main.34736857.chunk.js.map",
+    "runtime-main.js": "/starwars_react/static/js/runtime-main.4bf246ad.js",
+    "runtime-main.js.map": "/starwars_react/static/js/runtime-main.4bf246ad.js.map",
+    "static/js/2.5cf98740.chunk.js": "/starwars_react/static/js/2.5cf98740.chunk.js",
+    "static/js/2.5cf98740.chunk.js.map": "/starwars_react/static/js/2.5cf98740.chunk.js.map",
+    "static/js/3.af3eeab0.chunk.js": "/starwars_react/static/js/3.af3eeab0.chunk.js",
+    "static/js/3.af3eeab0.chunk.js.map": "/starwars_react/static/js/3.af3eeab0.chunk.js.map",
+    "index.html": "/starwars_react/index.html",
+    "static/css/main.f487839c.chunk.css.map": "/starwars_react/static/css/main.f487839c.chunk.css.map",
+    "static/js/2.5cf98740.chunk.js.LICENSE.txt": "/starwars_react/static/js/2.5cf98740.chunk.js.LICENSE.txt",
+    "static/media/StarWars.css": "/starwars_react/static/media/star.2bcf27b7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.df680e5a.js",
+    "static/js/runtime-main.4bf246ad.js",
     "static/js/2.5cf98740.chunk.js",
-    "static/css/main.9952ef1b.chunk.css",
+    "static/css/main.f487839c.chunk.css",
     "static/js/main.34736857.chunk.js"
   ]
 }
